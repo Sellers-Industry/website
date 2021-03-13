@@ -9,4 +9,4 @@ $(window).scroll(function() {
 });
 
 
-// add sticky header only on desktop
+// add sticky header only on mobile
