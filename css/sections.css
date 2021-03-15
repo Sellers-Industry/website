@@ -1,3 +1,8 @@
+.image-shadow {
+    box-shadow: -5px 5px 20px 3px rgb(0 0 0 / 20%);
+}
+
+
 .background-gradient {
     background-color: #007bff;
 }
@@ -15,7 +20,9 @@
 
 #section-1 .section-display .display-container .background-image {
     position: absolute;
-    background-color: black;
+    background: url( "../image/inside_store.jpg" ) black;
+    background-size: cover;
+    background-position: left;
     left: 10%;
     width: 65%;
     height: 100%;
