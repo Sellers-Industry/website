@@ -111,12 +111,13 @@
 									software can identify security threats, like individuals handling
 									firearms and trust-passing, in under 3 seconds. Flexible emergency
 									protocols allow verification and non-responsive timeout before
-									contacting Emergency Responders and emergency contacts.
+									contacting Emergency Responders and emergency contacts.<br><br>
+									<p style="text-decoration: underline;cursor: pointer;" data-toggle="modal" data-target="#demoLockdownAlert">Emergency Lockdown Protocals</p>
 								</div>
 							</div>
 						</div>
 						<div class="section-display col-12 col-md-6 text-center">
-							<div class="display-container" data-tilt data-tilt-perspective="1000" >
+							<div class="display-container" data-tilt data-tilt-perspective="1000" data-toggle="modal" data-target="#demoLockdownAlert">
 								<div class="alert-demo" data-aos="fade-left" data-aos-delay="1500">
 									<div class="row">
 										<div class="pr-10 text-danger">
@@ -129,8 +130,8 @@
 											<div class="description">
 												9:10AM in West Hall (C219)
 											</div>
-											<button type="button" class="display-alert-lockdown display-red-button mr-10" data-toggle="modal" data-target="#demoLockdownAlert">Lockdown</button>
-											<button type="button" class="display-alert-lockdown" data-toggle="modal" data-target="#demoFalseAlarmAlert">False Alarm</button>
+											<button type="button" class="display-alert-lockdown display-red-button mr-10">Lockdown</button>
+											<button type="button" class="display-alert-lockdown">False Alarm</button>
 										</div>
 									</div>
 								</div>
@@ -403,30 +404,28 @@
 			<div class="modal-dialog modal-dialog-centered" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
-						<h5 class="modal-title" id="exampleModalLongTitle">Building Lockdown</h5>
+						<h4 class="modal-title" id="exampleModalLongTitle">Emergency Lockdown Protocal</h4>
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 							<span aria-hidden="true">&times;</span>
 						</button>
 					</div>
 					<div class="modal-body">
-						...
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<!-- Demo Lockdown Alert -->
-		<div class="modal fade" id="demoFalseAlarmAlert" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-			<div class="modal-dialog modal-dialog-centered" role="document">
-				<div class="modal-content">
-					<div class="modal-header">
-						<h5 class="modal-title" id="exampleModalLongTitle">False Alarm</h5>
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-							<span aria-hidden="true">&times;</span>
-						</button>
-					</div>
-					<div class="modal-body">
-						...
+						After a weapon is detected, selected individuals will be
+						contacted for confirmation before lockdown. Individuals
+						will be presented with current emergency information and
+						can either ignore or contact emergency contacts,
+						including 911. If none of these individuals respond
+						within a timeframe, the emergency mode will be
+						automated be activated.
+						<br>
+						<br>
+						<b>Emergency Mode Tasks</b>
+						<ul>
+							<li>Text/Call/Email Emergency Contacts</li>
+							<li>Contact Emergency Responders</li>
+							<li>PA Anoucments (using VoIP) <i>Coming Soon</i></li>
+							<li>Backend API Call Hook (using REST API) <i>Coming Soon</i></li>
+						</ul>
 					</div>
 				</div>
 			</div>

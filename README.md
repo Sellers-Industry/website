@@ -4,7 +4,7 @@
 
 ### Updates
 - [ ] Home Page
-    - [ ] Update images
+    - [x] Update images
     - [ ] Add text main body text
     - [x] Fix coming soon on mobile
 - [x] About Page
@@ -12,9 +12,10 @@
 
 
 ### Extra Updates
+- [ ] Meta Data
+- [ ] Favicon
+- [ ] disable sticky header on mobile
 - [ ] Hover Buttons
 - [ ] Gadient Buttons
 - [ ] hover footer social icons
 - [ ] Footer year Auto Change
-- [ ] disable sticky header on mobile
-- [ ] Favicon
