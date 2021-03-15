@@ -6,7 +6,7 @@
 - [ ] Home Page
     - [ ] Update images
     - [ ] Add text main body text
-    - [ ] Fix coming soon on mobile
+    - [x] Fix coming soon on mobile
 - [x] About Page
 - [ ] Contact page
 
@@ -17,3 +17,4 @@
 - [ ] hover footer social icons
 - [ ] Footer year Auto Change
 - [ ] disable sticky header on mobile
+- [ ] Favicon
