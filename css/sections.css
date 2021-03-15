@@ -1,3 +1,8 @@
+.background-gradient {
+    background-color: #007bff;
+}
+
+
 #section-1 .section-text, #section-1 .section-display {
     min-height: 300px;
 }

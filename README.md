@@ -10,4 +10,5 @@
     - [ ] disable sticky header on mobile
     - [ ] Fix coming soon on mobile
 - [ ] About Page
+    - [ ] Footer year Auto Change
 - [ ] Contact page
