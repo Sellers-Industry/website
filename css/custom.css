@@ -15,8 +15,27 @@
     box-shadow: -5px 5px 20px 3px rgb(0 0 0 / 20%);
 }
 
+.btn {
+    transition: box-shadow 0.5s, background-color 0.5s;
+}
+
+.btn:hover {
+    transition: box-shadow 0.5s, background-color 0.5s;
+    box-shadow: -5px 5px 20px 3px rgb(0 0 0 / 10%);
+}
+
+.btn.action-1 {
+    background: #1a5cff linear-gradient(55deg,rgba(26,92,255,1) 0,rgba(0,123,255,1) 100%);
+}
+
+
+.btn.action-2 {
+    background: rgb(0, 0, 0);
+}
+
+
 .background-gradient {
-    background-color: #007bff;
+    background: #1a5cff linear-gradient(55deg,rgba(26,92,255,1) 0,rgba(0,123,255,1) 100%);
 }
 
 .modal-content {

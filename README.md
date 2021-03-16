@@ -21,8 +21,8 @@
 - [ ] Fix Shadow on Home page using css class for image
 - [ ] Link Emails in contact
 - [ ] disable sticky header on mobile
-- [ ] Hover Buttons
-- [ ] Gadient Buttons
+- [x] Hover Buttons
+- [x] Gadient Buttons
 - [ ] hover footer social icons
 - [ ] Footer year Auto Change
 - [ ] Our Solutions takes you to home page on about page
