@@ -13,7 +13,8 @@
 
 ### Extra Updates
 - [ ] Meta Data
-- [ ] Favicon
+- [x] Favicon
+- [ ] Link Emails in contact
 - [ ] disable sticky header on mobile
 - [ ] Hover Buttons
 - [ ] Gadient Buttons
