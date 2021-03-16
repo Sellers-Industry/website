@@ -14,13 +14,13 @@
 ### Extra Updates
 - [ ] Add Whitepaper Links (commented out)
 - [ ] Better Mobile Spacing
-- [ ] Meta Data
+- [x] Meta Data
 - [x] Favicon
 - [ ] 404 Page not Found
 - [x] Open Social Links in new page
 - [ ] Fix Shadow on Home page using css class for image
 - [ ] Link Emails in contact
-- [ ] disable sticky header on mobile
+- [x] disable sticky header on mobile
 - [x] Hover Buttons
 - [x] Gadient Buttons
 - [x] hover footer social icons
