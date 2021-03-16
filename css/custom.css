@@ -16,11 +16,11 @@
 }
 
 .btn {
-    transition: box-shadow 0.5s, background-color 0.5s;
+    transition: box-shadow 0.5s;
 }
 
 .btn:hover {
-    transition: box-shadow 0.5s, background-color 0.5s;
+    transition: box-shadow 0.5s;
     box-shadow: -5px 5px 20px 3px rgb(0 0 0 / 10%);
 }
 
@@ -50,4 +50,14 @@
 
 .modal-content .modal-body {
     padding: 1rem 2rem 2rem 2rem;
+}
+
+
+.social-hover-btn {
+    transition: color 0.5s
+}
+
+.social-hover-btn:hover {
+    transition: color 0.5s;
+    color: #1a5cff;
 }

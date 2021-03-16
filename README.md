@@ -23,6 +23,6 @@
 - [ ] disable sticky header on mobile
 - [x] Hover Buttons
 - [x] Gadient Buttons
-- [ ] hover footer social icons
+- [x] hover footer social icons
 - [ ] Footer year Auto Change
 - [ ] Our Solutions takes you to home page on about page
