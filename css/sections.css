@@ -7,33 +7,12 @@
  *   date: Tue Mar 16 2021
  *   file: sections.css
  *   project: Sellers Industry Website
- *   purpose: N/A
+ *   purpose: Section Customizations
  *
  */
 
 
-.image-shadow {
-    box-shadow: -5px 5px 20px 3px rgb(0 0 0 / 20%);
-}
-
-.background-gradient {
-    background-color: #007bff;
-}
-
-.modal-content {
-    border: none;
-    border-radius: 1rem;
-}
-
-.modal-content .modal-header {
-    padding: 3rem 2rem 0rem 2rem;
-    border: none;
-}
-
-.modal-content .modal-body {
-    padding: 1rem 2rem 2rem 2rem;
-}
-
+/* Section-1 Home Page */
 #section-1 .section-text, #section-1 .section-display {
     min-height: 300px;
 }
