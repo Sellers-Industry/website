@@ -25,4 +25,4 @@
 - [x] Gadient Buttons
 - [x] hover footer social icons
 - [ ] Footer year Auto Change
-- [ ] Our Solutions takes you to home page on about page
+- [x] Our Solutions takes you to home page on about page
