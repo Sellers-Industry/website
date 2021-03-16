@@ -3,15 +3,16 @@
 
 
 ### Updates
-- [ ] Home Page
+- [x] Home Page
     - [x] Update images
-    - [ ] Add text main body text
+    - [x] Add text main body text
     - [x] Fix coming soon on mobile
 - [x] About Page
 - [x] Contact page
 
 
 ### Extra Updates
+- [ ] Add Whitepaper Links (commented out)
 - [ ] Better Mobile Spacing
 - [ ] Meta Data
 - [x] Favicon
