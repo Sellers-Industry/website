@@ -1,3 +1,16 @@
+/*
+ *   Copyright (C) 2021 Sellers Industry - All Rights Reserved
+ *   Unauthorized copying of this file, via any medium is strictly
+ *   prohibited. Proprietary and confidential.
+ *
+ *   author: Evan Sellers <sellersew@gmail.com>
+ *   date: Tue Mar 16 2021
+ *   file: nav.css
+ *   project: Sellers Industry Website
+ *   purpose: Floating Navigation Bar
+ *
+ */
+
 .floating-nav {
     position: sticky;
     top: 0;
