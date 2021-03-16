@@ -8,7 +8,7 @@
     - [ ] Add text main body text
     - [x] Fix coming soon on mobile
 - [x] About Page
-- [ ] Contact page
+- [x] Contact page
 
 
 ### Extra Updates
