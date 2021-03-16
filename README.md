@@ -26,3 +26,5 @@
 - [x] hover footer social icons
 - [ ] Footer year Auto Change
 - [x] Our Solutions takes you to home page on about page
+- [ ] Video Popup
+- [ ] Hover bug on images
