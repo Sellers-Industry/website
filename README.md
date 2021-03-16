@@ -14,6 +14,7 @@
 ### Extra Updates
 - [ ] Meta Data
 - [x] Favicon
+- [ ] 404 Page not Found
 - [ ] Link Emails in contact
 - [ ] disable sticky header on mobile
 - [ ] Hover Buttons
