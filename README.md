@@ -19,7 +19,7 @@
 - [ ] 404 Page not Found
 - [x] Open Social Links in new page
 - [ ] Fix Shadow on Home page using css class for image
-- [ ] Link Emails in contact
+- [x] Link Emails in contact
 - [x] disable sticky header on mobile
 - [x] Hover Buttons
 - [x] Gadient Buttons
@@ -28,3 +28,4 @@
 - [x] Our Solutions takes you to home page on about page
 - [ ] Video Popup
 - [ ] Hover bug on images
+- [ ] sitechecker.pro
