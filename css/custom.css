@@ -65,3 +65,8 @@ body {
     transition: color 0.5s;
     color: #1a5cff;
 }
+
+
+.overflow-visible {
+    overflow: visible;
+}
