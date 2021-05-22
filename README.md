@@ -1,7 +1,6 @@
 # Website
 
 
-
 ### Updates
 - [x] Home Page
     - [x] Update images
