@@ -152,7 +152,7 @@ function SF_scripts(){
 	if(typeof(AOS) !== 'undefined' && $("body").hasClass("SFG_body")===false){
 		AOS.init({
 			easing: 'ease-out-cubic',
-			once: true,
+			once: false,
 			offset: 50
 		});
 		setTimeout(function(){
