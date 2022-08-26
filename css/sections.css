@@ -30,6 +30,13 @@
     -webkit-text-fill-color: transparent;
 }
 
+.slothtools {
+    background: linear-gradient(45deg, #7971F6 0%, #7971F6 30%, #43FBB8 70%, #43FBB8 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 
 /* Section-1 Home Page */
 #section-3 .section-text, #section-3 .section-display {
