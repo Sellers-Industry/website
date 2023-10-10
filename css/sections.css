@@ -38,6 +38,11 @@
 }
 
 
+.signalfire {
+    color: #004BFF;
+}
+
+
 /* Section-1 Home Page */
 #section-3 .section-text, #section-3 .section-display {
     min-height: 300px;

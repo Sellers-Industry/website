@@ -42,6 +42,12 @@ body {
     background: #1a5cff linear-gradient(55deg,rgba(26,92,255,1) 0,rgba(0,123,255,1) 100%);
 }
 
+.text-gradient {
+    background: -webkit-linear-gradient(rgba(26,92,255,1) 0,rgba(0,123,255,1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .modal-content {
     border: none;
     border-radius: 1rem;
