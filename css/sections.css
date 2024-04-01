@@ -37,6 +37,14 @@
     -webkit-text-fill-color: transparent;
 }
 
+.sherpajs {
+    background: linear-gradient(45deg, #0D6DCD 0%, #12BFE8 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
 .authical {
     background: linear-gradient(45deg, #F460B7 0%, #8A42B5 100%);
     background-clip: text;
@@ -44,6 +52,10 @@
     -webkit-text-fill-color: transparent;
 }
 
+
+.carrot {
+    color: #FF6A88;
+}
 
 
 .signalfire {
